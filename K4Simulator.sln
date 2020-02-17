@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K4Simulator", "K4Simulator\K4Simulator.csproj", "{74919FAC-FC02-460D-A268-CFE6546086FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K4SimulatorUnitTests", "K4SimulatorUnitTests\K4SimulatorUnitTests.csproj", "{07FAB7D0-4788-49B0-94E7-3C61FE4FCC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74919FAC-FC02-460D-A268-CFE6546086FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74919FAC-FC02-460D-A268-CFE6546086FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74919FAC-FC02-460D-A268-CFE6546086FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74919FAC-FC02-460D-A268-CFE6546086FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FAB7D0-4788-49B0-94E7-3C61FE4FCC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FAB7D0-4788-49B0-94E7-3C61FE4FCC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FAB7D0-4788-49B0-94E7-3C61FE4FCC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FAB7D0-4788-49B0-94E7-3C61FE4FCC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A4C606-D4B3-4883-A987-469AFC0A809B}
+	EndGlobalSection
+EndGlobal
